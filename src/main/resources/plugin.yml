@@ -1,0 +1,7 @@
+name: ClientCrashPacket
+version: 1.0-LEAKED-BY-FLATICOMMUNITY
+main: unkw301.ClientCrashPacket.Main
+author: unkw301
+commands:
+  crash:
+    description: 'Test plugin'
